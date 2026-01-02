@@ -1,0 +1,38 @@
+# JS Foundations Lab — Study Log
+
+Este arquivo registra meu progresso real no estudo de JavaScript.
+Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexão.
+
+---
+
+## 📅 Sessões de Estudo
+
+### Sessão 1
+- Data:
+- Módulo:
+- Tempo de estudo:
+- Exercícios feitos:
+- O que entendi bem:
+- O que ainda está confuso:
+- Uma frase com minhas próprias palavras sobre o que aprendi:
+
+---
+
+## 🧠 Conceitos Consolidados
+(Lista curta, só entra aqui quando eu realmente sinto que entendi)
+
+- 
+
+---
+
+## ⚠️ Conceitos Ainda Frágeis
+(Coisas que preciso repetir mais)
+
+- 
+
+---
+
+## ❓ Perguntas para o Chat
+(Dúvidas que surgiram durante os exercícios)
+
+- 
