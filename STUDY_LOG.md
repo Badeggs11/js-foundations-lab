@@ -8,6 +8,7 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 ## 📅 Sessões de Estudo
 
 ### Sessão 1
+
 - Data:
 - Módulo:
 - Tempo de estudo:
@@ -19,20 +20,23 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 ---
 
 ## 🧠 Conceitos Consolidados
+
 (Lista curta, só entra aqui quando eu realmente sinto que entendi)
 
-- 
+- variáveis, objeto;
 
----
+- uso do retorno em funções, e como variáveis expressam o undefined quando recebem função sem retorno;
 
 ## ⚠️ Conceitos Ainda Frágeis
+
 (Coisas que preciso repetir mais)
 
-- 
+-
 
 ---
 
 ## ❓ Perguntas para o Chat
+
 (Dúvidas que surgiram durante os exercícios)
 
-- 
+-
