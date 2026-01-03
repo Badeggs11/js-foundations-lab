@@ -27,13 +27,13 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - uso do retorno em funções, e como variáveis expressam o undefined quando recebem função sem retorno;
 
+- conceito de estado do personagem e o que significa alterá-lo;
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
 
--
-
----
+- ***
 
 ## ❓ Perguntas para o Chat
 
