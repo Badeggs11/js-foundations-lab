@@ -29,6 +29,8 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - conceito de estado do personagem e o que significa alterá-lo;
 
+- uso da condição diretamente no return e como isso simplifica as funções e deixa o código mais limpo;
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
