@@ -33,6 +33,8 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - diferenciação de funcões de regras e funções de consequência
 
+- loops while and for;
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
