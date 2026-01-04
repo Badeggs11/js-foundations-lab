@@ -31,6 +31,8 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - uso da condição diretamente no return e como isso simplifica as funções e deixa o código mais limpo;
 
+- diferenciação de funcões de regras e funções de consequência
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
