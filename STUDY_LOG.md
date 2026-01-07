@@ -37,6 +37,11 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - conceito de funcoes que modificam o estado;
 
+- ações representam intenções e precisam ser processadas para gerar efeitos no estado
+- funções podem gerar um novo estado a partir de um estado anterior, sem modificar o original
+- separação entre estado (como o mundo fica) e eventos (o que aconteceu)
+- diferenciação entre funções de regra e funções de consequência
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
