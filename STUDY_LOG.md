@@ -35,6 +35,8 @@ Nada aqui é copiado automaticamente: tudo foi escrito após prática e reflexã
 
 - loops while and for;
 
+- conceito de funcoes que modificam o estado;
+
 ## ⚠️ Conceitos Ainda Frágeis
 
 (Coisas que preciso repetir mais)
