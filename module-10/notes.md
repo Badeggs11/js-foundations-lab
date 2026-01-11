@@ -12,3 +12,13 @@ O que eu acho que é CSS:
 Estilizador do HTML
 O que eu acho que é "visual consistente":
 (escreva com suas palavras)
+
+Você agora entende:
+
+HTML como representação de estado
+
+CSS como percepção e hierarquia
+
+Classes como contrato estrutural
+
+Refatoração sem quebra visual
